@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Neuron
+public class Neuron 
 {
     int prevLayerCount;
     float[] weights;

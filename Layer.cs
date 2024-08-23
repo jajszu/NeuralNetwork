@@ -4,7 +4,7 @@ using UnityEngine;
 
 public enum LayerType{INPUT, HIDDEN, OUTPUT};
 
-public class Layer
+public class Layer 
 {
     public LayerType layerType;
 
